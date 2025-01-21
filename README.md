@@ -26,6 +26,11 @@ Ao girar o potenciômetro, o servo motor muda de ângulo proporcionalmente.
 | Servo Motor (GND) | GND |
 | Servo Motor (Sinal) | 9 |
 
+
+## 📂 Docs  
+O código-fonte pode ser acessado aqui:  
+</> [Código](docs/Código)  
+
 ---
 
 ## 🔗 Simulação no Tinkercad
