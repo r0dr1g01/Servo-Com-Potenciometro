@@ -15,17 +15,6 @@ Ao girar o potenciômetro, o servo motor muda de ângulo proporcionalmente.
 ![image](https://github.com/user-attachments/assets/1d707639-a07d-46b8-9213-5cc49c7e1c5e)
 
 
----
-
-## 🚀 Requisitos  
-
-- **Arduino UNO (ou compatível)**  
-- **Servo motor (ex: SG90, MG995, etc.)**  
-- **Potenciômetro (10kΩ recomendado)**  
-- **Jumpers e Protoboard**  
-
----
-
 ## 🔌 Esquema de Ligações  
 
 | Componente       | Pino no Arduino |
@@ -40,4 +29,4 @@ Ao girar o potenciômetro, o servo motor muda de ângulo proporcionalmente.
 ---
 
 ## 🔗 Simulação no Tinkercad
-[Acesse aqui a simulação do semáforo no Tinkercad]([https://www.tinkercad.com/things/kGEixmwBJ3y-semaforo?sharecode=YrhTA40F0SmOKw9J2PJ_9E9tMTLB_BBHsU-VEqxkv5w](https://www.tinkercad.com/things/fcJlY2aZ3b1-servo-com-potencometro))
+[Acesse aqui a simulação do semáforo no Tinkercad]([https://www.tinkercad.com/things/kGEixmwBJ3y-semaforo?sharecode=YrhTA40F0SmOKw9J2PJ_9E9tMTLB_BBHsU-VEqxkv5w](https://www.tinkercad.com/things/fcJlY2aZ3b1-servo-com-potencometro)
