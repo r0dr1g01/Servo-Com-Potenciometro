@@ -29,4 +29,4 @@ Ao girar o potenciômetro, o servo motor muda de ângulo proporcionalmente.
 ---
 
 ## 🔗 Simulação no Tinkercad
-[Acesse aqui a simulação do semáforo no Tinkercad]([https://www.tinkercad.com/things/kGEixmwBJ3y-semaforo?sharecode=YrhTA40F0SmOKw9J2PJ_9E9tMTLB_BBHsU-VEqxkv5w](https://www.tinkercad.com/things/fcJlY2aZ3b1-servo-com-potencometro)
+[Acesse aqui a simulação do semáforo no Tinkercad](https://www.tinkercad.com/things/fcJlY2aZ3b1-servo-com-potencometro)
