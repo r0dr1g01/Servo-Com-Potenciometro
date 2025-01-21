@@ -1,1 +1,26 @@
+#include <Servo.h>
 
+const int potPin = A0, servoPin = 9;
+
+int potenciometro, angulo;
+
+Servo myServo;
+
+void setup() {
+  myServo.attach(servoPin);
+
+  pinMode(potPin, INPUT);
+
+  Serial.begin(9600);
+}
+
+void loop() {
+  potenciometro = analogRead(potPin);
+
+  angulo = map(potenciometro, 0, 1023, 0, 179);
+  myServo.write(angulo);
+
+  Serial.println("Pot: " + String(potenciometro) + "Angulo" + String(angulo));
+  
+  delay(15);
+}
